@@ -1,0 +1,25 @@
+----------【HTML】----------
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<title>6-2-2 カテゴリ別に画像を並び替える</title>
+
+<!-- fancybox.css -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+GALLERY
+
+<!----- JS ----->
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<!-- web-animations.js -->
+<script src="https://unpkg.com/web-animations-js@2.3.2/web-animations.min.js"></script>
+<!-- muuri.js -->
+<script src="https://unpkg.com/muuri@0.8.0/dist/muuri.min.js"></script>
+<!-- fancybox.js -->
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<!-- script.js -->
+<script src="assets/js/script.js"></script>
+
+
+----------【CSS】----------
+@import "https://unpkg.com/ress/dist/ress.min.css";
